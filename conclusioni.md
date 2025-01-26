@@ -1,0 +1,3 @@
+# Conclusioni
+
+Come si può evincere dallo stato dell'arte esaminato in questo documento, la Learning from Demonstration risulta essere una tecnica eterogenea nelle sue modalità. La tecnologia ha raggiunto una maturità tale da permetterne l'utilizzo anche al di fuori dal contesto accademico. Tuttavia la sua diffusione è ancora limitata a causa degli investimenti necessari. I significativi progressi tecnologici nell'ambito della robotica e del machine learning permetteranno un'adozione sempre maggiore da parte della realtà aziendali. In questo contesto, la scelta delle tecniche di dimostrazione è critica, e in questo elaborato le abbiamo studiate da un punto di vista applicativo per fornire un riferimento su come effettuare questa decisione.
